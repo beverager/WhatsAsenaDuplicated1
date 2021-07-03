@@ -23,7 +23,7 @@
 
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Kod%20Kalitesi&style=plastic">
+    <img src="https://img.shields.io/codefactor/grade/github/beverager/WhatsAsenaDuplicated1?color=purple&label=Kod%20Kalitesi&style=plastic">
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
