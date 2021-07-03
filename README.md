@@ -1,16 +1,16 @@
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
+- [Yusuf Usta](https://github.com/beverager)
 - [@fusufs](https://t.me/fusufs)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
+  <a href="https://github.com/beverager/WhatsAsenaDuplicated1/fork">
+    <img src="https://img.shields.io/github/forks/beverager/WhatsAsenaDuplicated1?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
+  <a href="https://github.com/beverager/WhatsAsenaDuplicated1/stargazers">
+    <img src="https://img.shields.io/github/stars/beverager/WhatsAsenaDuplicated1?style=social">
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/commits/master">
     <img src="https://img.shields.io/github/commit-activity/m/phaticusthiccy/WhatsAsenaDuplicated?style=social">
@@ -39,7 +39,7 @@
 
   </a>
   <a href="https://t.me/asenaremaster">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
+    <img src="https://img.shields Animegirl.jpg.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
 
   </a>
 </p>
