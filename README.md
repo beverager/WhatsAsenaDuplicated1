@@ -93,10 +93,10 @@ is not responsible for the usage purpose and method of the users.
 
 > [New support & help group.](https://t.me/asenaremaster) (New)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/beverager/WhatsAsenaDuplicated1/wiki)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [Phaticusthiccy](https://github.com/beverager/WhatsAsenaDuplicated1). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
@@ -109,8 +109,8 @@ is not responsible for the usage purpose and method of the users.
 
 ### The Hard Method
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
-$ cd WhatsAsenaDuplicated
+$ git clone https://github.com/beverager/WhatsAsenaDuplicated1
+$ cd WhatsAsenaDuplicated1
 $ npm i
 $ nano Config.env
 // Config.env oluşturun ve düzenleyin.
@@ -118,7 +118,7 @@ $ nano Config.env
 $ node bot.js
 ```
 ### ⚒️ Setup Wiki 
-[![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/Animegirl.png)](https://github.com/beverager/WhatsAsenaDuplicated1/wiki)
 
 ## F.A.Q
 Answer a few frequently asked questions;
